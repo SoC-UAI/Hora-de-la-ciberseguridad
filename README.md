@@ -7,7 +7,7 @@ Este proyecto tiene como objetivo evaluar el impacto educativo del uso de Interl
 
 ### 1. Actividades de Kahoot
 - **[Kahoot 1](https://create.kahoot.it/share/kahoot-inicio-actividad/89974e21-764d-4984-9d2e-b20c619d8a1b):** Evaluación inicial para medir el conocimiento previo de los participantes sobre ciberseguridad.
-- **[Kahoot 2](https://create.kahoot.it/share/interland/78285504-3a88-4322-90ac-86156b233a23):** Cuestionario enfocado en **Phishing**, diseñado para preparar a los participantes antes de la actividad en Interland (Las imagenes de este kahoot se encuentran en el siguiente [PDF](Google_SeGenialEnInternet_ElPlanDeEstudios.pdf)).
+- **[Kahoot 2](https://create.kahoot.it/share/interland/78285504-3a88-4322-90ac-86156b233a23):** Cuestionario enfocado en **Phishing**, diseñado para preparar a los participantes antes de la actividad en Interland (Las imagenes de este kahoot se encuentran en el siguiente [PDF](Google_ikeepsafe.pdf)).
 - **[Kahoot 3](https://create.kahoot.it/share/fin-de-actividad/3ca87d0e-cddc-41af-a49a-390b9e1a96e0):** Evaluación final para medir el aprendizaje adquirido después de completar las actividades de Interland.
 
 ### 2. [Interland](https://beinternetawesome.withgoogle.com/es-419_all/interland/)
