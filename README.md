@@ -10,7 +10,7 @@ Este proyecto tiene como objetivo evaluar el impacto educativo del uso de Interl
 - **[Kahoot 2](https://create.kahoot.it/share/interland/78285504-3a88-4322-90ac-86156b233a23):** Cuestionario enfocado en **Phishing**, diseñado para preparar a los participantes antes de la actividad en Interland.
 - **[Kahoot 3](https://create.kahoot.it/share/fin-de-actividad/3ca87d0e-cddc-41af-a49a-390b9e1a96e0):** Evaluación final para medir el aprendizaje adquirido después de completar las actividades de Interland.
 
-### 2. Interland
+### 2. [Interland](https://beinternetawesome.withgoogle.com/es-419_all/interland/)
 - **Río de la Realidad:** Actividad enfocada en reconocer información verdadera y evitar trampas digitales.
 - **Torre de los Tesoros:** Actividad que enseña a proteger información personal y gestionar contraseñas de forma segura.
 
